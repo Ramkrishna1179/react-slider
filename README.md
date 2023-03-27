@@ -68,3 +68,54 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
+<!-- 
+
+body{
+  background-color: #c9c4c7 !important;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  position: relative;
+  display: inline-block;
+  align-items: center;
+  justify-content: center;
+  width: 33.33%;
+}
+
+.textContainer {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: 70px;
+  line-height: 70px;
+  text-align: center;
+  color: #ec008c;
+  margin: 50px 0px 0px 107px;
+
+  /* margin: 50px; */
+}
+.textContainer .minute {
+  font-size: 28px;
+  line-height: 25px;
+  background: -webkit-linear-gradient(#ec008c, #fc6767);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.shadow {
+  background: #6aad87;
+} -->
+
